@@ -194,9 +194,4 @@ Everything flows from this.
 </p>
 ```
 
----
 
-
-
-So this stops being *vision*
-and becomes **inevitable reality**.
