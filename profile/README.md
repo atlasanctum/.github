@@ -192,6 +192,5 @@ Everything flows from this.
   Sustained with discipline.<br/>
   Oriented above.
 </p>
-```
 
 
