@@ -161,9 +161,9 @@ Only signal.
 
 ## 🧭 Roadmap
 
-* [ ] Decision Engine (Live Dashboard)
-* [ ] AtlasLang v0.1 (Covenant Contracts)
-* [ ] RVE Simulation Engine
+* [✓] Decision Engine (Live Dashboard)
+* [✓] AtlasLang v0.1 (Covenant Contracts)
+* [✓] RVE Simulation Engine
 * [ ] Nairobi Pilot Deployment
 * [ ] Multi-region Expansion
 
